@@ -4,7 +4,7 @@ http encoders utils with go
 # Help
 
 ```
-Usage: ./gohttpencoder -e <encoder> <file-stdin>
+Usage: ./http-encoders -e <encoder> <file-stdin>
   -e string
     	Encoders to use:
     		urle: urlencoder
